@@ -25,3 +25,14 @@ C:\C#\C# Macoratti\APICatalogo\APICatalogo\obj\Debug\net6.0\refint\APICatalogo.d
 C:\C#\C# Macoratti\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
 C:\C#\C# Macoratti\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.genruntimeconfig.cache
 C:\C#\C# Macoratti\APICatalogo\APICatalogo\obj\Debug\net6.0\ref\APICatalogo.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Humanizer.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\MySqlConnector.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\C#\C# Macoratti\APICatalogo\APICatalogo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
